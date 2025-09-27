@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I’m Abin Rajesh
 
-<!--
-**abinrajesh/abinrajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full-Stack Developer | MERN + Java | DSA in Progress
 
-Here are some ideas to get you started:
+⚙️ Currently building real-world projects to sharpen my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+
+ 🌐 Web Development (HTML, CSS, JavaScript → React → Node.js + Express)
+
+ 🛠 Full-Stack Projects (e-commerce, marketplace, clones)
+
+📈 Data Structures & Algorithms (Striver’s A2Z DSA Sheet)
+
+## 📂 Featured Projects
+### 🎬 Netflix Clone
+
+Responsive UI built with HTML, CSS, JS using TMDB API
+
+### 🛒 OLX Clone (React)
+
+Dynamic categories, responsive UI, modular components with minimal functional features
+
+(More full-stack projects coming soon…)
+
+## 🛠 Tech Stack (React)
+
+Frontend: HTML, CSS, JavaScript, React
+
+Backend: Node.js, Express (learning phase)
+
+Database: MongoDB (upcoming)
+
+Other: Git, Firebase, Java
+
+# 📫 Connect With Me
+
+## 💼 LinkedIn : https://www.linkedin.com/in/abinrajesh/
+
+## ✉️ Reach me at: abinrajeshh@gmail.com
