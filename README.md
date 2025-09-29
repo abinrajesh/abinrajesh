@@ -6,7 +6,7 @@
   />
 </p>
 <h1 align="center">Hi 👋, I'm Abin Rajesh</h1>
-<h3 align="center">💻 Aspiring Full-Stack Developer | MERN + Java | DSA in Progress <br><br>⚙️ Currently building real-world projects to sharpen my skills</h3>
+<h3 align="center">💻 Aspiring Full-Stack Developer | DSA in Progress <br><br>⚙️ Currently building real-world projects to sharpen my skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinrajesh&label=Profile%20views&color=0e75b6&style=flat" alt="abinrajesh" /> </p>
 
