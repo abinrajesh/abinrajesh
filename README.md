@@ -18,11 +18,11 @@
 
 ## 🚀 What I’m Working On
 
- - 🌐 Web Development (HTML, CSS, JavaScript → React → Node.js + Express)
+ - 🌐 Web Development (HTML, CSS, JavaScript → React → Java + Spring Boot)
 
  - 🛠 Full-Stack Projects (e-commerce, marketplace, clones)
 
-- 📈 Data Structures & Algorithms 
+ - 📈 Data Structures & Algorithms 
 
 
 <h3 align="left">Connect with me:</h3>
